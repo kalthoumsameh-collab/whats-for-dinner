@@ -1,12 +1,7 @@
-# IMPORTANT - keeps your API key safe
 .env.local
 .env
-
-# Next.js
 .next/
 node_modules/
 out/
-
-# OS
 .DS_Store
 Thumbs.db
